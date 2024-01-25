@@ -1,4 +1,5 @@
 [
+  {"id":"ac","name":"App.Net"},
   {"id":"documentary","name":"Documentary"},
   {"id":"sports","name":"Sports"},
   {"id":"news","name":"News"},
@@ -7,6 +8,7 @@
   {"id":"music","name":"Music"},
   {"id":"kids","name":"Kids"},
   {"id":"family","name":"Family"},
+  {"id":"ac","name":"App.Net"},
   {"id":"comedy","name":"Comedy"},
   {"id":"auto","name":"Auto"},
   {"id":"animation","name":"Animation"},
@@ -15,6 +17,7 @@
   {"id":"business","name":"Business"},
   {"id":"classic","name":"Classic"},
   {"id":"cooking","name":"Cooking"},
+  {"id":"ac","name":"App.Net"},
   {"id":"culture","name":"Culture"},
   {"id":"education","name":"Education"},
   {"id":"entertainment","name":"Entertainment"},
@@ -23,6 +26,7 @@
   {"id":"lifestyle","name":"Lifestyle"},
   {"id":"outdoor","name":"Outdoor"},
   {"id":"relax","name":"Relax"},
+  {"id":"ac","name":"App.Net"},
   {"id":"religious","name":"Religious"},
   {"id":"shop","name":"Shop"},
   {"id":"weather","name":"Weather"}
