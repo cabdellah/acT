@@ -1,0 +1,26 @@
+{
+  "msg": "success",
+  "data": [
+    {
+      "id": 2,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/cabdellah/acT/main/ads/ads.jpg",
+      "site": "https://www.youtube.com/"
+    },
+    {
+      "id": 2,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/cabdellah/acT/main/ads/ads1.jpg",
+      "site": "https://www.youtube.com/"
+    },
+    {
+      "id": 2,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/cabdellah/acT/main/ads/ads2.jpg",
+      "site": "https://www.youtube.com/"
+    }
+  ]
+}
